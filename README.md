@@ -5,15 +5,15 @@ This project performs multiple linear regression analysis to understand the fact
 #### Dataset
 The dataset used in this project contains information about startups, including:
 
-R&D Spend
+- R&D Spend
 
-Administration
+- Administration
 
-Marketing Spend
+- Marketing Spend
 
-State
+- State
 
-Profit
+- Profit
 
 ### Results
 The model's performance is evaluated based on the R² score, which indicates how well the model explains the variability of the profit based on the given features.
