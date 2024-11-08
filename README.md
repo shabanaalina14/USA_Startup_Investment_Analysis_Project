@@ -18,7 +18,7 @@ Profit
 ### Results
 The model's performance is evaluated based on the R² score, which indicates how well the model explains the variability of the profit based on the given features.
 
-git clone https://github.com/Shabanaalina14/COMPLETE-PYTHON
+git clone https://github.com/shabanaalina14/USA_Startup_Investment_Analysis_Project/tree/main
 
 Contact For any questions or suggestions, please feel free to reach.
 
